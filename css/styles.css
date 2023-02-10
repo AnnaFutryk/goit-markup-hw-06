@@ -558,6 +558,9 @@ body {
     color: var(--white-txt-color);
 }
 
+.footer-socials-list {
+    width: 208px;
+}
 .footer-link {
     display: flex;
     align-items: center;
