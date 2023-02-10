@@ -560,7 +560,9 @@ body {
 
 .footer-socials-list {
     width: 208px;
+    gap: 16px;
 }
+
 .footer-link {
     display: flex;
     align-items: center;
