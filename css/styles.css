@@ -529,6 +529,11 @@ body {
 
 .footer-container {
     display: flex;
+    gap: 80px;
+}
+
+.footer-two-block-wrap {
+    display: flex;
     gap: 120px;
 }
 
