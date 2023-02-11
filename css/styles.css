@@ -531,9 +531,8 @@ body {
     display: flex;
 }
 
-.footer-two-block-wrap {
-    display: flex;
-    gap: 120px;
+.footer-block {
+    margin-right: 120px;
 }
 
 .logo-light {
